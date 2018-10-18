@@ -1,0 +1,11 @@
+COLORS:
+menu bar (with reset button, 'best of' button): #673ab7
+
+'white' bg: #eee8fc
+
+stage border: #b39ddb
+------------------------------
+FONTS:
+top banner: Leixo
+
+menu bar: Quantify (dafont.com)
